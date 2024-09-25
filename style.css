@@ -1,0 +1,30 @@
+#conteiner{
+    background-color: rgb(136, 9, 81);
+    width: 1520px; ;
+    height: 40px;
+    margin-left: 10px;
+}
+.titulo{
+    font-size: 32px;
+    color: #ffd7c4;
+    font-weight: lighter;
+    font-family: fantasy;
+    font-style: italic;
+    padding-left: 20px;
+}
+.paragrafo{
+    font-size: 20px;
+    color: rgb(24, 1, 141);
+    background-color: aquamarine;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 30px;
+    /* letter-spacing: 5px; */
+    word-spacing: 5px;
+    padding-left: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+}
